@@ -1,0 +1,16 @@
+|---root
+|---|---app.py	                  # Source code for the main application 
+|---|---data_load.py	          # Source code for ingest and data preprocessing of quantitative dataset
+|---|---forecasting.py	          # Source code for forecasting module
+|---|---utils.py	          # Source code for utility functions
+|---|
+|---|---assets	                  # Asset folder with style.css (Stylesheet)
+|---|---data	                  # Data folder with quantitative input dataset
+|---|
+|---|---combined.xlsx	          # Combined excel sheet generated after preliminary preprocessing of quantitative dataset
+|---|---requirements.txt	  # Software requirements
+|---|---README.md                 # ReadMe file
+|___..
+
+
+
