@@ -4,7 +4,7 @@
 Building a one-stop place for all the trends, analytics and forecasting you need for understanding and keeping up with COVID-19 pandemic.  
 
 ## Data Source: 
-1. Johns Hopkins Dataset : https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases
+Johns Hopkins Dataset : https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases
 
 ## Project Structure
 
