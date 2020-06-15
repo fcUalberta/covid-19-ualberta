@@ -3,6 +3,8 @@
 ## About
 Building a one-stop place for all the trends, analytics and forecasting you need for understanding and keeping up with COVID-19 pandemic.  
 
+Website hosted at: https://covid19-ualberta.herokuapp.com/
+
 ## Data Source: 
 Johns Hopkins Dataset : https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases
 
