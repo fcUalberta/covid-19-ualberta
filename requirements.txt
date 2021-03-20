@@ -16,7 +16,7 @@ h5py==2.9.0
 html5lib==1.0.1
 importlib-metadata==0.23
 itsdangerous==1.1.0
-Jinja2==2.10.3
+Jinja2==2.11.3
 joblib==0.13.2
 MarkupSafe==1.1.1
 numpy==1.18.2
